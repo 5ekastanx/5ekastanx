@@ -1,5 +1,5 @@
 # Hi there! 👋  
-I'm Bekastan, a backend Python developer based in Kyrgyzstan.
+I'm [Bekastan](https://my-bio-hstf.vercel.app/), a backend Python developer based in Kyrgyzstan.
 
 I specialize in building scalable and robust software solutions using my expertise in Python, PostgreSQL, SQL, Django, DRF, GraphQL, Docker, and Swagger. I also have experience in frontend development, working with JavaScript, React, TypeScript, and Vite to create seamless and engaging user interfaces.
 
