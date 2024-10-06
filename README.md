@@ -1,5 +1,5 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-I'm [Bekastan](https://my-bio-hstf.vercel.app/), a backend Python developer based in Kyrgyzstan.            
+I'm [Bekastan](https://my-bio-hstf.vercel.app/), a backend Python developer based in Kyrgyzstan.             
 
 I specialize in building scalable and robust software solutions using my expertise in Python, SQLite, DRF, Docker, and Swagger. I also have experience in frontend development, working with JavaScript, React, Redux-Toolkit, HTML, CSS and Material-MUI to create seamless and engaging user interfaces.
 
