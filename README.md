@@ -12,4 +12,4 @@ When I'm not coding, I'm constantly improving my skills, taking on side projects
 - I’m always eager to learn the latest in tech.
 - I love both backend and frontend development, giving me a unique perspective on software architecture.
 
-Thanks for stopping by! 😊 
+Thanks for stopping by! 😊  
