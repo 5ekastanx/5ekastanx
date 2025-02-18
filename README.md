@@ -8,7 +8,7 @@ My goal is to develop efficient and maintainable systems that not only meet perf
 When I'm not coding, I'm constantly improving my skills, taking on side projects, and exploring new technologies. I thrive on learning and building solutions that solve real-world problems.
 
 ### Fun Facts: 
-- I enjoy exploring full-stack development.
+- I enjoy exploring full-stack development. 
 - I’m always eager to learn the latest in tech.
 - I love both backend and frontend development, giving me a unique perspective on software architecture.
 
