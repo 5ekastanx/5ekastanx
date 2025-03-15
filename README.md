@@ -18,7 +18,7 @@ When I'm not coding, I'm constantly improving my skills, taking on side projects
         <img src="https://komarev.com/ghpvc/?username=5ekastanx&style=flat-circle&color=green"/>
     </a>
     <a href="https://user-badge.committers.top/kazakhstan_private/5ekastanx">
-        <img src="https://committers.top/kyrgyzstan_private#5ekastanx" alt="committers.top badge">
+        <img src="https://committers.top/kyrgyzstan_private#5ekastanx.svg" alt="committers.top badge">
     </a>
 </div>
 
