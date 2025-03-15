@@ -12,4 +12,14 @@ When I'm not coding, I'm constantly improving my skills, taking on side projects
 - I’m always eager to learn the latest in tech.
 - I love both backend and frontend development, giving me a unique perspective on software architecture.
 
+  <!-- Profile views and committers rank -->
+<div id="footer" align="center">
+    <a href="https://github.com/5ekastanx">
+        <img src="https://komarev.com/ghpvc/?username=5ekastanx&style=flat-circle&color=green"/>
+    </a>
+    <a href="https://user-badge.committers.top/kazakhstan_private/5ekastanx">
+        <img src="https://committers.top/kyrgyzstan_private#5ekastanx" alt="committers.top badge">
+    </a>
+</div>
+
 Thanks for stopping by! 😊  
