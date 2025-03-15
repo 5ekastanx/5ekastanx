@@ -15,9 +15,9 @@ When I'm not coding, I'm constantly improving my skills, taking on side projects
   <!-- Profile views and committers rank -->
 <div id="footer" align="center">
     <a href="https://github.com/5ekastanx">
-        <img src="https://komarev.com/ghpvc/?username=5ekastanx&style=flat-circle&color=green"/>
+        <img src="https://komarev.com/ghpvc/?username=5ekastanx&style=flat-circle&color=orange"/>
     </a>
-    <a href="https://user-badge.committers.top/kazakhstan_private/5ekastanx">
+    <a href="https://user-badge.committers.top/kyrgyzstan_private/5ekastanx">
         <img src="https://user-badge.committers.top/kyrgyzstan_private/5ekastanx.svg" alt="committers.top badge">
     </a>
 </div>
