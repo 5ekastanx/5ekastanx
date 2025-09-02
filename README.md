@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>  
 I'm [Bekastan](https://my-bio-hstf.vercel.app/), a backend Python developer based in Kyrgyzstan.    
                                                                  
-I specialize in building scalable and robust software solutions using my expertise in Python, SQLite, DRF,<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="VsCode" /> Docker, and Swagger. I also have experience in frontend development, working with JavaScript, React, Redux-Toolkit, HTML, CSS and Material-MUI to create seamless and engaging user interfaces.
+I specialize in building scalable and robust software solutions using my expertise in Python, SQLite,<img src="https://skillicons.dev/icons?i=django" width="20" height="20" alt="VsCode" /> DRF,<img src="https://skillicons.dev/icons?i=docker" width="20" height="20" alt="VsCode" /> Docker, and Swagger. I also have experience in frontend development, working with JavaScript, React, Redux-Toolkit, HTML, CSS and Material-MUI to create seamless and engaging user interfaces.
  
 My goal is to develop efficient and maintainable systems that not only meet performance standards but also provide an enjoyable user experience. 
 
