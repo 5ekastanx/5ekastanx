@@ -1,7 +1,14 @@
+<p align="center">
+  <a href="https://about-me-chi-taupe.vercel.app/" target="_blank">
+        <p align="center">
+    <img alt="Coding" width="100" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>  
 I'm [Bekastan](https://my-bio-hstf.vercel.app/), a backend Python developer based in Kyrgyzstan.    
                                                                  
-I specialize in building scalable and robust software solutions using my expertise in Python, SQLite,<img src="https://skillicons.dev/icons?i=django" width="20" height="20" alt="VsCode" /> DRF,<img src="https://skillicons.dev/icons?i=docker" width="20" height="20" alt="VsCode" /> Docker, and Swagger. I also have experience in frontend development, working with JavaScript, React, Redux-Toolkit, HTML, CSS and Material-MUI to create seamless and engaging user interfaces.
+I specialize in building scalable and robust software solutions using my expertise in Python, SQLite, DRF, Docker, and Swagger. I also have experience in frontend development, working with JavaScript, React, Redux-Toolkit, HTML, CSS and Material-MUI to create seamless and engaging user interfaces.
  
 My goal is to develop efficient and maintainable systems that not only meet performance standards but also provide an enjoyable user experience. 
 
@@ -21,5 +28,5 @@ When I'm not coding, I'm constantly improving my skills, taking on side projects
         <img src="https://user-badge.committers.top/kyrgyzstan_private/5ekastanx.svg" alt="committers.top badge">
     </a>
 </div>
-
+<p align="center"><a href="https://github.com/ATravelerGo"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 Thanks for stopping by! 😊  
